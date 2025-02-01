@@ -1,10 +1,423 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        .centered-list {
+            text-align: left;
+            max-width: 800px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .centered-list ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .centered-list li {
+            margin-bottom: 10px;
+        }
+        .centered-list li strong {
+            font-weight: bold;
+        }
+        .centered-list li em {
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
-<h1>Webstite Time</h1>
-<p>[greek goes here]</p>
-</body>
-</html>
+    <div class="centered-list">
+        <ul>
+            <li><em>γαῖαν ὕδει φύρειν, ἐν δ᾽ ἀνθρώπου θέμεν αὐδὴν</em>
+                <ul>
+                    <li><strong>ὕδει</strong> - epic dative</li>
+                    <li><strong>φύρειν</strong> - to mix</li>
+                    <li><strong>θέμεν</strong> - aor act inf τιθημι
+                        <ul>
+                            <li>to mix earth with water, in it to place the voice of men</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>καὶ σθένος, ἀθανάτῃς δὲ θεῇς εἰς ὦπα ἐίσκειν</em>
+                <ul>
+                    <li><strong>εἰς ὦπα</strong> - in form</li>
+                    <li><strong>ἐίσκειν</strong> - to make like
+                        <ul>
+                            <li>and strength, and in form to make it/her like the immortal goddess</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>παρθενικῆς καλὸν εἶδος ἐπήρατον: αὐτὰρ Ἀθήνην</em>
+                <ul>
+                    <li><strong>ἐπήρατον</strong> - lovely</li>
+                    <li><strong>αὐτὰρ</strong> - however/moreover
+                        <ul>
+                            <li>a lovely, beautiful image of a maiden. moreover Athene</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ἔργα διδασκῆσαι, πολυδαίδαλον ἱστὸν ὑφαίνειν:</em>
+                <ul>
+                    <li><strong>διδασκῆσαι</strong> - aor inf</li>
+                    <li><strong>πολυδαίδαλον</strong> - intricately worked/skillfully made</li>
+                    <li><strong>ἱστὸν</strong> - web</li>
+                    <li><strong>ὑφαίνειν</strong> - weave
+                        <ul>
+                            <li>was to teach her crafts, to weave an intricate web</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>καὶ χάριν ἀμφιχέαι κεφαλῇ χρυσέην Ἀφροδίτην</em> <strong>65</strong>
+                <ul>
+                    <li>and to pour grace around her head, golden Aphrodite</li>
+                </ul>
+            </li>
+            <li><em>καὶ πόθον ἀργαλέον καὶ γυιοβόρους μελεδώνας:</em>
+                <ul>
+                    <li><strong>πόθον ἀργαλέον</strong> - difficult/painful desire</li>
+                    <li><strong>γυιοβόρους μελεδώνας</strong> - limb-devouring cares/anxieties
+                        <ul>
+                            <li>difficult desire and limb-devouring anxieties</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ἐν δὲ θέμεν κύνεόν τε νόον καὶ ἐπίκλοπον ἦθος</em>
+                <ul>
+                    <li><strong>ἐν</strong> - in/within + <strong>θέμεν</strong> - aor inf</li>
+                    <li><strong>ἐπίκλοπον ἦθος</strong> - deceitful nature
+                        <ul>
+                            <li>and to place within (her/it) a shameless mind and deceitful nature</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>Ἑρμείην ἤνωγε, διάκτορον Ἀργεϊφόντην.</em>
+                <ul>
+                    <li><strong>ἤνωγε</strong> - aor 3s 'ἄνωγα' - order/command
+                        <ul>
+                            <li>he ordered Hermes the messenger, the slayer of Argus</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ὣς ἔφαθ᾽: οἳ δ᾽ ἐπίθοντο Διὶ Κρονίωνι ἄνακτι.</em>
+                <ul>
+                    <li><strong>ἐπίθοντο</strong> - 3pl mid aor ind
+                        <ul>
+                            <li>in this way he spoke, and they obeyed Lord Zeus, son of Kronos</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>αὐτίκα δ᾽ ἐκ γαίης πλάσσεν κλυτὸς Ἀμφιγυήεις</em> <strong>70</strong>
+                <ul>
+                    <li><strong>πλάσσεν</strong> - 3s aor -πλασσω - shape/form</li>
+                    <li><strong>γυής</strong> - curved piece of wood
+                        <ul>
+                            <li>and immediately the famous Hephaestus formed her from earth</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>παρθένῳ αἰδοίῃ ἴκελον Κρονίδεω διὰ βουλάς:</em>
+                <ul>
+                    <li><strong>αἰδοίῃ</strong> - modest</li>
+                    <li><strong>ἴκελον</strong> - like
+                        <ul>
+                            <li>like a modest maiden, through the counsels of Zeus</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ζῶσε δὲ καὶ κόσμησε θεὰ γλαυκῶπις Ἀθήνη:</em>
+                <ul>
+                    <li><strong>ζῶσε</strong> - 3s aor ind ζωννυμι - gird</li>
+                    <li><strong>κόσμησε</strong> - adorn
+                        <ul>
+                            <li>the goddess bright-eyed Athene girded and also adorned her</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ἀμφὶ δέ οἱ Χάριτές τε θεαὶ καὶ πότνια Πειθὼ</em>
+                <ul>
+                    <li>and around her, the Graces and goddesses and the queen Persuasion</li>
+                </ul>
+            </li>
+            <li><em>ὅρμους χρυσείους ἔθεσαν χροΐ: ἀμφὶ δὲ τήν γε</em>
+                <ul>
+                    <li><strong>ἔθεσαν</strong> - 3sg pl τιθημι</li>
+                    <li><strong>χροΐ</strong> - epic dative - skin
+                        <ul>
+                            <li>they placed gold necklaces on her skin, and around her</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>Ὧραι καλλίκομοι στέφον ἄνθεσιν εἰαρινοῖσιν:</em> <strong>75</strong>
+                <ul>
+                    <li><strong>καλλίκομοι</strong> - beautiful-haired</li>
+                    <li><strong>στέφον</strong> - 3pl aor
+                        <ul>
+                            <li>the beautiful-haired Hours crowned her with spring flowers</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>πάντα δέ οἱ χροῒ κόσμον ἐφήρμοσε Παλλὰς Ἀθήνη.</em>
+                <ul>
+                    <li><strong>χροῒ</strong> - skin</li>
+                    <li><strong>ἐφήρμοσε</strong> - 3s aor ind 'fit/adjust'
+                        <ul>
+                            <li>and Pallas Athene fit all adornment to her skin</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ἐν δ᾽ ἄρα οἱ στήθεσσι διάκτορος Ἀργεϊφόντης</em>
+                <ul>
+                    <li><strong>θηκε</strong> - line 80</li>
+                    <li>and in the chest, the messenger, slayer of Argus placed</li>
+                </ul>
+            </li>
+            <li><em>ψεύδεά θ᾽ αἱμυλίους τε λόγους καὶ ἐπίκλοπον ἦθος</em>
+                <ul>
+                    <li><strong>θ᾽</strong> - τε</li>
+                    <li><strong>ἦθος</strong> - used of women specifically - thievish/tricky/wily
+                        <ul>
+                            <li>falsehoods, wily words, and cunning character</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>τεῦξε Διὸς βουλῇσι βαρυκτύπου: ἐν δ᾽ ἄρα φωνὴν</em>
+                <ul>
+                    <li><strong>τεῦξε</strong> - fashion/make
+                        <ul>
+                            <li>he made them by the plan of loud-thundering Zeus, and...</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>θῆκε θεῶν κῆρυξ, ὀνόμηνε δὲ τήνδε γυναῖκα</em> <strong>80</strong>
+                <ul>
+                    <li>...the messenger of the gods placed a voice, and named this woman</li>
+                </ul>
+            </li>
+            <li><em>Πανδώρην, ὅτι πάντες Ὀλύμπια δώματ᾽ ἔχοντες</em>
+                <ul>
+                    <li><strong>Πανδώρην</strong> - all gifts
+                        <ul>
+                            <li>Pandora, because all the gods of the house had</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>δῶρον ἐδώρησαν, πῆμ᾽ ἀνδράσιν ἀλφηστῇσιν.</em>
+                <ul>
+                    <li><strong>ἐδώρησαν</strong> - aor - give as a gift
+                        <ul>
+                            <li>given her a gift, bane to hardworking men</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>αὐτὰρ ἐπεὶ δόλον αἰπὺν ἀμήχανον ἐξετέλεσσεν,</em>
+                <ul>
+                    <li><strong>ἀμήχανον</strong> - helpless task</li>
+                    <li><strong>ἐξετέλεσσεν</strong> - to accomplish/complete
+                        <ul>
+                            <li>but after he completed the dreadful, (no means/helpless) task</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>εἰς Ἐπιμηθέα πέμπε πατὴρ κλυτὸν Ἀργεϊφόντην</em>
+                <ul>
+                    <li>to Epimetheus, the father sent the famous slayer of Argus</li>
+                </ul>
+            </li>
+            <li><em>δῶρον ἄγοντα, θεῶν ταχὺν ἄγγελον:</em> <strong>οὐδ'</strong> <em>Ἐπιμηθεὺς</em> <strong>85</strong>
+                <ul>
+                    <li>bringing the gift, the swift messenger of the gods. but Epimetheus</li>
+                </ul>
+            </li>
+            <li><em>ἐφράσαθ᾽, ὥς οἱ ἔειπε Προμηθεὺς μή ποτε δῶρον</em>
+                <ul>
+                    <li><strong>ἐφράσαθ᾽</strong> - φραζομαι - mid. voice - notice</li>
+                    <li><strong>μή ποτε</strong> - never
+                        <ul>
+                            <li>paid <strong>no</strong> notice, as Prometheus told him never <strong>to accept</strong> a gift</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>δέξασθαι πὰρ Ζηνὸς Ὀλυμπίου, ἀλλ᾽ ἀποπέμπειν</em>
+                <ul>
+                    <li><strong>δέξασθαι</strong> - aor mid inf δεχομαι
+                        <ul>
+                            <li>from Olympian Zeus, but to send it back</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ἐξοπίσω, μή πού τι κακὸν θνητοῖσι γένηται.</em>
+                <ul>
+                    <li><strong>ἐξοπίσω</strong> - adv back again</li>
+                    <li><strong>πού</strong> - somewhere</li>
+                    <li><strong>γένηται</strong> - aor mid subj
+                        <ul>
+                            <li>again, in order that some evil somewhere not happen to men</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>αὐτὰρ ὃ δεξάμενος, ὅτε δὴ κακὸν εἶχ᾽, ἐνόησεν.</em>
+                <ul>
+                    <li><strong>ὅτε δὴ</strong> - emphatic when</li>
+                    <li><strong>ἐνόησεν</strong> - aor
+                        <ul>
+                            <li>however, having received it, he, only realized when he had the evil</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>Πρὶν μὲν γὰρ ζώεσκον ἐπὶ χθονὶ φῦλ᾽ ἀνθρώπων</em> <strong>90</strong>
+                <ul>
+                    <li><strong>φῦλ᾽</strong> - φυλον - nation/race/tribe</li>
+                    <li><strong>ζώεσκον</strong> - ζωω - σκ = iterative
+                        <ul>
+                            <li>for before, tribes of men lived on the earth</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>νόσφιν ἄτερ τε κακῶν καὶ ἄτερ χαλεποῖο πόνοιο</em>
+                <ul>
+                    <li><strong>νόσφιν</strong> - apart - adv epic</li>
+                    <li><strong>ἄτερ</strong> - apart - prep
+                        <ul>
+                            <li>apart, from both evils and difficult toils</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>νούσων τ᾽ ἀργαλέων, αἵ τ᾽ ἀνδράσι Κῆρας ἔδωκαν.</em>
+                <ul>
+                    <li><strong>ἔδωκαν</strong> - aor διδωμι</li>
+                    <li><strong>Κῆρας</strong> - death
+                        <ul>
+                            <li>and painful disease, which gave to men</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>αἶψα γὰρ ἐν κακότητι βροτοὶ καταγηράσκουσιν.</em>
+                <ul>
+                    <li><strong>καταγηράσκουσιν</strong> - κατα γηρας
+                        <ul>
+                            <li>for suddenly, in misery, mortals grow old</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><em>ἀλλὰ γυνὴ χείρεσσι πίθου μέγα πῶμ᾽ ἀφελοῦσα</em>
+                      <ul>
+                          <li><strong>πίθου</strong> - jar</li>
+                          <li>but the woman, using her hands, having removed the great lid of the jar</li>
+                      </ul>
+                  </li>
+                  <li><em>ἐσκέδασ᾽: ἀνθρώποισι δ᾽ ἐμήσατο κήδεα λυγρά.</em> <strong>95</strong>
+                      <ul>
+                          <li><strong>ἀνθρώποισι</strong> - dat. disadvantage</li>
+                          <li><strong>λυγρά</strong> - grievous</li>
+                          <li>scattered (them), and contrived grievous troubles for men</li>
+                      </ul>
+                  </li>
+                  <li><em>μούνη δ᾽ αὐτόθι Ἐλπὶς ἐν ἀρρήκτοισι δόμοισιν</em>
+                      <ul>
+                          <li><strong>ἀρρήκτοισι</strong> - unbreakable - α + ρηγνυμι</li>
+                          <li>and only hope remained in the unbreakable house</li>
+                      </ul>
+                  </li>
+                  <li><em>ἔνδον ἔμιμνε πίθου ὑπὸ χείλεσιν, οὐδὲ θύραζε</em>
+                      <ul>
+                          <li><strong>ἔμιμνε</strong> - 3sg impf - μενω</li>
+                          <li><strong>χείλεσιν</strong> - edge/lip/rim</li>
+                          <li>she stayed inside, below the lip, and had not</li>
+                      </ul>
+                  </li>
+                  <li><em>ἐξέπτη: πρόσθεν γὰρ ἐπέλλαβε πῶμα πίθοιο</em>
+                      <ul>
+                          <li><strong>ἐξέπτη</strong> - 3sg aor - fly out</li>
+                          <li><strong>ἐπέλλαβε</strong> - επιλαμβανω</li>
+                          <li>flown outside: for previously the lid of the jar had closed,</li>
+                      </ul>
+                  </li>
+                  <li><em>αἰγιόχου βουλῇσι Διὸς νεφεληγερέταο.</em>
+                      <ul>
+                          <li><strong>βουλῇσι</strong> - will/counsel/plan</li>
+                          <li>by the plan of aegis-bearing Zeus</li>
+                      </ul>
+                  </li>
+                  <li><em>ἄλλα δὲ μυρία λυγρὰ κατ᾽ ἀνθρώπους ἀλάληται:</em> <strong>100</strong>
+                      <ul>
+                          <li><strong>ἄλλα</strong> - pl neut αλλος</li>
+                          <li><strong>ἀλάληται</strong> - roam/wander</li>
+                          <li>but countless other grievous things wandered among men</li>
+                      </ul>
+                  </li>
+                  <li><em>πλείη μὲν γὰρ γαῖα κακῶν, πλείη δὲ θάλασσα:</em>
+                      <ul>
+                          <li><strong>πλείη</strong> x2 - full of</li>
+                          <li>for the earth is full of evils, and the sea is full too</li>
+                      </ul>
+                  </li>
+                  <li><em>νοῦσοι δ᾽ ἀνθρώποισιν ἐφ᾽ ἡμέρῃ, αἳ δ᾽ ἐπὶ νυκτὶ</em>
+                      <ul>
+                          <li>while some disease comes upon men in the day, some upon them by night</li>
+                      </ul>
+                  </li>
+                  <li><em>αὐτόματοι φοιτῶσι κακὰ θνητοῖσι φέρουσαι</em>
+                      <ul>
+                          <li><strong>αὐτόματοι</strong> - (μηνος) - self-willed/unbidden</li>
+                          <li><strong>φοιτῶσι</strong> - roam</li>
+                          <li>unbidden, they roam, bringing evils to mortals</li>
+                      </ul>
+                  </li>
+                  <li><em>σιγῇ, ἐπεὶ φωνὴν ἐξείλετο μητίετα Ζεύς.</em>
+                    <ul>
+                        <li><strong>σιγῇ</strong> - dat manner</li>
+                        <li><strong>ἐξείλετο</strong> - aor mid εξαιρεω - take out/away</li>
+                        <li>in silence, since Zeus the counselor took their voice away</li>
+                    </ul>
+                </li>
+                <li><em>οὕτως οὔτι πη ἔστι Διὸς νόον ἐξαλέασθαι.</em> <strong>105</strong>
+                    <ul>
+                        <li><strong>οὔτι πη</strong> - not at all</li>
+                        <li><strong>ἐξαλέασθαι</strong> - aor mid inf ἐξαλέομαι - escape/avoid</li>
+                        <li>in this way, no one is to escape the will of Zeus</li>
+                    </ul>
+                </li>
+            </ul>
+            
+            </body>
+            </html>
+              
