@@ -1,20 +1,13 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>obsidian_vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 03 Nov 2025 10:21:40 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 03 Nov 2025 10:21:39 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[From Alpha to Omega Lessons 1-13]]></title><description><![CDATA[
-The Definite Article
-2nd Declension Nouns
-1st Declension Nouns
-Demonstratives (this/that): ὅδε, οὗτος, ἐκεῖνος
-Adjectives
-Ω-verbs - Present, Future, and Imperfect
-εἰμί
-Prepositions: Governing Cases feminine -ος nouns include: ὁδος (road)
-νοσος (sickness) The ε, ι, ρ Rule
-IF: the stem ends in ε, ι, or ρ
-THEN: use ᾱ instead of η in the singular 1st declension nouns: Long vowel (ᾱ/η)
-Short vowel (α)
-Masculine ### ω-Verbs: Future Active Indicative and Infinitive
-The present and future use the primary endings
-The imperfect uses the secondary endings
-]]></description><link>from-alpha-to-omega-lessons-1-13.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/From Alpha to Omega Lessons 1-13.md</guid><pubDate>Mon, 03 Nov 2025 10:20:39 GMT</pubDate></item><item><title><![CDATA[A-O Necessary Information]]></title><description><![CDATA[While it is helpful to have paradigms memorised, there is a lot of information to take in, and learning the patterns can help to speed up the process. Endings generally match the definite article EXCEPT: -ος in the masculine nominative singular
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian_vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>obsidian_vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 03 Nov 2025 14:12:01 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 03 Nov 2025 14:11:58 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[A-O Print Summary]]></title><description><![CDATA[
+Where do the endings of 2nd declension nouns differ from the article? (circle above) What is the ε, ι, ρ rule? Which group of 1st declension nouns declines most similarly to the definite article?
+a) Long-vowel feminine nouns where the ε, ι, ρ rule DOESN'T apply
+b) Long-vowel feminine nouns where the ε, ι, ρ rule DOES apply
+c) Short-vowel feminine nouns where the ε, ι, ρ rule DOESN'T apply
+d) Short-vowel feminine nouns where the ε, ι, ρ rule DOES apply
+e) Masculine 1st declension nouns Which group of 1st declension nouns does θαλαττα fall under? Why is this important to know? Which forms of the masculine 1st declension nouns are the same as the 2nd declension nouns? (give 2 forms) Which forms of οὗτος, αὕτη, τοῦτο begin with τ? what is the '2-1-2' pattern of endings? name one adjective which follows this pattern Which tenses (that you have learned) use the primary endings, and which use the secondary? Give the sound change from adding -σ- when forming the future: σ + π =
+σ + γ =
+σ + δ = when does the augment lengthen? What directional movement is generally implied by each case: accusative: genitive:
+dative: ]]></description><link>from-alpha-to-omega/a-o-print-summary.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/A-O Print Summary.md</guid><pubDate>Mon, 03 Nov 2025 11:00:25 GMT</pubDate></item><item><title><![CDATA[A-O General Patterns]]></title><description><![CDATA[While it is helpful to have paradigms memorised, there is a lot of information to take in, and learning the patterns can help to speed up the process. Endings generally match the definite article EXCEPT: -ος in the masculine nominative singular
 -ον in the neuter nominative and accusative singular
 -α in the neuter nominative and accusative plural common feminine -ος nouns include: ὁδος (road)
 νοσος (sickness) The ε, ι, ρ Rule
@@ -30,10 +23,23 @@ The imperfect uses the secondary endings The future is formed by adding -σ- bet
 Dental consonants (δ, θ, ζ) are dropped The imperfect is formed: augment + stem + ending
 the augment is an ε added to the beginning of a word μι-verbs are also called athematic verbs because they are formed without adding an ο/ω to the ending (this ω/ο is the theme vowel in the tenses covered so far) Very generally: accusative: motion towards
 genitive: motion away from
-dative: no motion ]]></description><link>from-alpha-to-omega/a-o-necessary-information.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/A-O Necessary Information.md</guid><pubDate>Mon, 03 Nov 2025 09:51:06 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Welcome to the website. <a data-href="From Alpha to Omega Lessons 1-13" href="from-alpha-to-omega/from-alpha-to-omega-lessons-1-13.html" class="internal-link" target="_self" rel="noopener nofollow">From Alpha to Omega Lessons 1-13</a>
-<br><a data-href="Morwood's Irregular Principle Parts" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Morwood's Irregular Principle Parts</a>
-<br><a data-href="Caplice and Snell's Introduction to Akkadian Answers" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Caplice and Snell's Introduction to Akkadian Answers</a>
-]]></description><link>index.html</link><guid isPermaLink="false">Personal/Github Pages/index.md</guid><pubDate>Mon, 03 Nov 2025 09:00:22 GMT</pubDate></item><item><title><![CDATA[A-O Print]]></title><description><![CDATA[
+dative: no motion ]]></description><link>from-alpha-to-omega/a-o-general-patterns.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/A-O General Patterns.md</guid><pubDate>Mon, 03 Nov 2025 10:37:04 GMT</pubDate></item><item><title><![CDATA[From Alpha to Omega Lessons 1-13]]></title><description><![CDATA[
+The Definite Article
+2nd Declension Nouns
+1st Declension Nouns
+Demonstratives (this/that): ὅδε, οὗτος, ἐκεῖνος
+Adjectives
+Ω-verbs - Present, Future, and Imperfect
+εἰμί
+Prepositions: Governing Cases feminine -ος nouns include: ὁδος (road)
+νοσος (sickness) The ε, ι, ρ Rule
+IF: the stem ends in ε, ι, or ρ
+THEN: use ᾱ instead of η in the singular 1st declension nouns: Long vowel (ᾱ/η)
+Short vowel (α)
+Masculine ### ω-Verbs: Future Active Indicative and Infinitive
+The present and future use the primary endings
+The imperfect uses the secondary endings
+]]></description><link>from-alpha-to-omega/from-alpha-to-omega-lessons-1-13.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/From Alpha to Omega Lessons 1-13.md</guid><pubDate>Mon, 03 Nov 2025 10:20:39 GMT</pubDate></item><item><title><![CDATA[A-O Print]]></title><description><![CDATA[
 The Definite Article
 2nd Declension Nouns
 1st Declension Nouns
@@ -44,5 +50,25 @@ Adjectives
 Prepositions: Governing Cases
 The ε, ι, ρ Rule
 IF:
-THEN: Contains blank grids for conjugation and declension practice Will allow you to practice the specific verb forms you have learned so far (without having to deal with later ones!
-]]></description><link>from-alpha-to-omega/a-o-print.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/A-O Print.md</guid><pubDate>Mon, 03 Nov 2025 08:35:04 GMT</pubDate></item><item><title><![CDATA[verb hell]]></title><description><![CDATA[IndicativeActivePassiveIndicativeActiveMiddlePassiveIndicativeActiveMiddlePassiveSubjunctiveOptativeλυσθησεσθαιOptativeInfinitiveλυσεινλυσεσθαιImperativeλυσασθαιλυσθηναιInfinitiveλυσαιSubjunctiveOptativeImperativeInfinitiveλυεινλυεσθαιActiveIndicativePassiveParticipleλυσων, λυσουσα, λυσονλυσομενος, λυσομενη, λυσομενονλυσθησομενος, λυσθησομενη, λυσθησομενονλυων, λυουσα, λυονλυομενος, λυομενη, λυομενονParticipleλυσαμενος, λυσαμενη, λυσαμενονλυσθεις, λυσθεισα, λυσθενParticipleλυσας, λυσασα, λυσανIndicativeActivePassiveIndicativeActiveMiddlePassiveIndicativeActiveMiddlePassiveSubjunctiveOptativeδοθησεσθαιOptativeInfinitiveδωσεινδωσεσθαιImperativeδοσθαιδοθηναιInfinitiveδουναιSubjunctiveOptativeImperativeInfinitiveδιδοναιδιδοσθαιActiveIndicativePassiveParticipleδωσων, δωσουσα, δωσονδωσομενος, δωσομενη, δωσομενονδοθησομενος, δοθησομενος, δοθησομενονδιδους, διδουσα, διδονδιδομενος, διδομενη, διδομενονParticipleδομενος, δομενη, δομενονδοθεις, δοθεισα, δοθενParticipleδους, δουσα, δον (δοντ-)ActiveMiddleλιπεσθαιλιπεινλιπομενος, λιπομενη, λιπομενονλιπων, λιπουσα, λιπονParticipleλελυκεναιλελυκως, λελυκυια, λελυκοςπεπαυσθαιπεπαυμενος, πεπαυμενη, πεπαυμενονImperativeInfinitiveδεδοσθαιδεδωκεναιIndicativeActivePassiveOptativeIndicativeSubjunctiveSubjunctiveOptativeInfinitivePassiveActiveActivePassiveIndicativeActivePassiveIndicativeParticipleδεδωκως, δεδωκυια, δεδωκοςδεδομενος, δεδομενη, δεδομενον]]></description><link>verb-hell.html</link><guid isPermaLink="false">Ancient Greek/verb hell.canvas</guid><pubDate>Fri, 24 Oct 2025 14:50:43 GMT</pubDate></item></channel></rss>
+THEN: The present and future use the primary endings
+The imperfect uses the secondary endings Allows you to practice the forms you have learned so far with examples
+]]></description><link>from-alpha-to-omega/a-o-print.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/A-O Print.md</guid><pubDate>Mon, 03 Nov 2025 10:10:22 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Welcome to the website. <a data-href="From Alpha to Omega Lessons 1-13" href="from-alpha-to-omega/from-alpha-to-omega-lessons-1-13.html" class="internal-link" target="_self" rel="noopener nofollow">From Alpha to Omega Lessons 1-13</a>
+<br><a data-href="Morwood's Irregular Principle Parts" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Morwood's Irregular Principle Parts</a>
+<br><a data-href="Caplice and Snell's Introduction to Akkadian Answers" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Caplice and Snell's Introduction to Akkadian Answers</a>
+]]></description><link>index.html</link><guid isPermaLink="false">Personal/Github Pages/index.md</guid><pubDate>Mon, 03 Nov 2025 09:00:22 GMT</pubDate></item><item><title><![CDATA[A-O Necessary Information]]></title><description><![CDATA[While it is helpful to have paradigms memorised, there is a lot of information to take in, and learning the patterns can help to speed up the process. Endings generally match the definite article EXCEPT: -ος in the masculine nominative singular
+-ον in the neuter nominative and accusative singular
+-α in the neuter nominative and accusative plural common feminine -ος nouns include: ὁδος (road)
+νοσος (sickness) The ε, ι, ρ Rule
+IF: the stem ends in ε, ι, or ρ
+THEN: use ᾱ instead of η in the singular Long vowel (ᾱ/η) For long vowel feminine nouns where the ε, ι, ρ rule DOESN'T apply, follow the definite article exactly
+Where the rule applies, use ᾱ instead of η in the singular Short vowel (α) For short vowel feminine nouns where the ε, ι, ρ rule DOESN'T apply (θᾰ́λᾰττᾰ), remember that the vowel changes from α to η in the genitive and dative Masculine Has the 2nd declension -ου ending in the genitive singular ὅδε, ἥδε, τόδε (this, the nearer) is just the definite article + δε
+οὗτος, αὕτη, τοῦτο (this, the further) only differs from the expected in the nominative masculine and feminine, where the initial τ is dropped
+ἐκεῖνος declines according to the 2-1-2 pattern of endings
+The 2-1-2 Pattern
+the 2-1-2 pattern referrs to a group of adjectives which use 2nd declension endings for masculine and neuter, and 1st declension endings for feminine The present and future tenses use the primary endings
+The imperfect uses the secondary endings The future is formed by adding -σ- between the stem and ending (sometimes causing a change of consonant) σ + π, β, φ = ψ
+σ + κ, γ, χ = χ
+Dental consonants (δ, θ, ζ) are dropped The imperfect is formed: augment + stem + ending
+the augment is an ε added to the beginning of a word μι-verbs are also called athematic verbs because they are formed without adding an ο/ω to the ending (this ω/ο is the theme vowel in the tenses covered so far) Very generally: accusative: motion towards
+genitive: motion away from
+dative: no motion ]]></description><link>from-alpha-to-omega/a-o-necessary-information.html</link><guid isPermaLink="false">Personal/Github Pages/From Alpha to Omega/A-O Necessary Information.md</guid><pubDate>Mon, 03 Nov 2025 09:51:06 GMT</pubDate></item><item><title><![CDATA[verb hell]]></title><description><![CDATA[IndicativeActivePassiveIndicativeActiveMiddlePassiveIndicativeActiveMiddlePassiveSubjunctiveOptativeλυσθησεσθαιOptativeInfinitiveλυσεινλυσεσθαιImperativeλυσασθαιλυσθηναιInfinitiveλυσαιSubjunctiveOptativeImperativeInfinitiveλυεινλυεσθαιActiveIndicativePassiveParticipleλυσων, λυσουσα, λυσονλυσομενος, λυσομενη, λυσομενονλυσθησομενος, λυσθησομενη, λυσθησομενονλυων, λυουσα, λυονλυομενος, λυομενη, λυομενονParticipleλυσαμενος, λυσαμενη, λυσαμενονλυσθεις, λυσθεισα, λυσθενParticipleλυσας, λυσασα, λυσανIndicativeActivePassiveIndicativeActiveMiddlePassiveIndicativeActiveMiddlePassiveSubjunctiveOptativeδοθησεσθαιOptativeInfinitiveδωσεινδωσεσθαιImperativeδοσθαιδοθηναιInfinitiveδουναιSubjunctiveOptativeImperativeInfinitiveδιδοναιδιδοσθαιActiveIndicativePassiveParticipleδωσων, δωσουσα, δωσονδωσομενος, δωσομενη, δωσομενονδοθησομενος, δοθησομενος, δοθησομενονδιδους, διδουσα, διδονδιδομενος, διδομενη, διδομενονParticipleδομενος, δομενη, δομενονδοθεις, δοθεισα, δοθενParticipleδους, δουσα, δον (δοντ-)ActiveMiddleλιπεσθαιλιπεινλιπομενος, λιπομενη, λιπομενονλιπων, λιπουσα, λιπονParticipleλελυκεναιλελυκως, λελυκυια, λελυκοςπεπαυσθαιπεπαυμενος, πεπαυμενη, πεπαυμενονImperativeInfinitiveδεδοσθαιδεδωκεναιIndicativeActivePassiveOptativeIndicativeSubjunctiveSubjunctiveOptativeInfinitivePassiveActiveActivePassiveIndicativeActivePassiveIndicativeParticipleδεδωκως, δεδωκυια, δεδωκοςδεδομενος, δεδομενη, δεδομενον]]></description><link>verb-hell.html</link><guid isPermaLink="false">Ancient Greek/verb hell.canvas</guid><pubDate>Fri, 24 Oct 2025 14:50:43 GMT</pubDate></item></channel></rss>
